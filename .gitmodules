@@ -1,0 +1,6 @@
+[submodule "smsplus"]
+	path = smsplus
+	url = https://github.com/0ldsk00l/smsplus.git
+[submodule "crtview"]
+	path = crtview
+	url = https://github.com/mattiasgustavsson/crtview.git
