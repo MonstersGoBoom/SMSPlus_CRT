@@ -21,7 +21,7 @@ https://vimeo.com/543463928
 
 Credits.
 
-Crtview kindly created by Mattias Gustavsson.
+CRTview kindly created by Mattias Gustavsson.
 
 SMSPlus based on Charles MacDonald's original code. 
 
